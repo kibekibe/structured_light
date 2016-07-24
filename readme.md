@@ -1,19 +1,19 @@
 プロジェクター・カメラシステムに関するプログラム
 
 
-* gray_code
+* gray_code  
 グレーコードのエンコード・デコード
 
-* hamming_color_code
+* hamming_color_code  
 ハミングカラーコードのエンコード・デコード
 
-* procam_triangulation
+* procam_triangulation  
 プロジェクター、カメラ1台ずつのシステムのデコード画像からの三角測量
 
-* projcalib_from_decoded_imgs
+* projcalib_from_decoded_imgs  
 プロジェクター、カメラ1台ずつのシステムのステレオキャリブレーション
 
-* sample_data
-ハミングカラーコードを用いたプロジェクターのキャリブレーション。
+* sample_data  
+ハミングカラーコードを用いたプロジェクターのキャリブレーション。  
 それからのグレーコードを用いた三角測量をするためのサンプル画像セット。
 
