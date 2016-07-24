@@ -1,0 +1,14 @@
+decoded/DSC04010_y.exr
+decoded/DSC04013_y.exr
+decoded/DSC04016_y.exr
+decoded/DSC04019_y.exr
+decoded/DSC04022_y.exr
+decoded/DSC04025_y.exr
+decoded/DSC04028_y.exr
+decoded/DSC04031_y.exr
+decoded/DSC04034_y.exr
+decoded/DSC04037_y.exr
+decoded/DSC04040_y.exr
+decoded/DSC04043_y.exr
+decoded/DSC04046_y.exr
+decoded/DSC04049_y.exr
